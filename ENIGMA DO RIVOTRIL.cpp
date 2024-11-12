@@ -3,7 +3,7 @@
 #include <locale.h>
 
 int main(){
-	int op, resp = 4;
+	int op, resp = 5;
 	
 	do{
 	setlocale(LC_ALL, "portuguese");

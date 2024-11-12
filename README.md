@@ -1,2 +1,2 @@
-# Codigo---Rivotiril-
-Se você gosta de desafios, venha explorar e ver até onde consegue chegar. 👀🔎
+# Codigo_Rivotril
+Em um vilarejo isolado, uma antiga lenda falava de um segredo enterrado na floresta proibida, algo que poderia dar poder a quem o descobrisse, mas que levava à perda de todos os que tentaram. Você decide enfrentar o mistério, determinado a encontrar a verdade. Após adentrar a floresta e seguir um mapa deixado por seu avô, você encontra uma pedra com símbolos esculpidos. Ao tocá-la, Uma chave surge na pedra representando algo profundo e desconhecido e para compreendêla será necessário resolver um pequeno desafio. Você está preparado? 
